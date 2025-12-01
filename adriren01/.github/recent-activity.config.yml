@@ -1,0 +1,15 @@
+#.github/recent-activity.config.yml
+fork_events: true
+
+enabled_events:
+- "comment"
+- "issue"
+- "pull_request"
+- "pull_request_review"
+- "push"
+- "release"
+- "star"
+- "fork"
+
+days: 7
+max_sections: 5
